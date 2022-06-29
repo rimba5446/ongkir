@@ -7,7 +7,7 @@ nodejs v16 lts
 
 👉🏻 [CLIENT](https://github.com/rimba5446/RajaOngkir-Express-Server)
 👉🏻 [SERVER](https://github.com/rimba5446/ReactOpen-RajaOngkir)
-
+```python
 - how to install client
 
 npm install
@@ -17,3 +17,4 @@ npm start
 
 npm install
 npm start
+```
