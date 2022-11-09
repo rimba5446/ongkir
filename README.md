@@ -5,8 +5,8 @@
 -requirement
 nodejs v16 lts
 
-👉🏻 [SERVER](https://github.com/rimba5446/RajaOngkir-Express-Server)
-👉🏻 [CLIENT](https://github.com/rimba5446/ReactOpen-RajaOngkir)
+👉🏻 [BACKEND](https://github.com/rimba5446/RajaOngkir-Express-Server)
+👉🏻 [FRONTEND](https://github.com/rimba5446/ReactOpen-RajaOngkir)
 ```python
 - how to install client
 
